@@ -1,0 +1,2 @@
+<div class="header"><a href="#"><img src="images/headerimg.jpg" alt="Insert Logo Here" name="Insert_logo" width="960" height="130" id="Insert_logo" style="background: #C6D580; display:block;" /></a> 
+    <!-- end .header --></div>
